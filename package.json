@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "./mine-btc.sh"
+    "build": "./mine-btc.sh"
   },
   "engines": {
     "node": ">=7.6.0",
